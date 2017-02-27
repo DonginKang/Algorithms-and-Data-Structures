@@ -1,5 +1,3 @@
-### Algorithms-and-Data-Structures
-
 
 ####Reference site
 >1. http://interactivepython.org/RkmcZ/courselib/static/pythonds/index.html
